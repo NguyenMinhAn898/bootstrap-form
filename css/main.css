@@ -1,0 +1,43 @@
+body {
+    background-color: #F2F5FB;
+}
+
+label {
+    text-align: left !important;
+    float: left !important;
+    display: block !important;
+}
+
+button {
+    border-radius: 0;
+    border: 1px solid black;
+    background-color: #EBEBEB;
+}
+
+.card-header {
+    background-color: white;
+    color: black;
+}
+
+.readonly {
+    background-color: #F1F8F3;
+    border: 0;
+}
+
+
+/* Form style */
+
+.form {
+    background-color: #E9ECEF;
+    border-radius: 5px;
+    min-height: 150px;
+}
+
+
+/* Table style */
+
+.view-table {
+    background-color: #E9ECEF;
+    border-radius: 5px;
+    min-height: 350px;
+}
